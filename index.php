@@ -4,7 +4,7 @@
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <title>Español al mundo - Learning Spanish online</title>
+    <title>Hablaonline - Gratiskurs i spansk</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
